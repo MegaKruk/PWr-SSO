@@ -1,1 +1,2 @@
-# Politechnika Wrocławska - Sieciowe Systemy Operacyjne Lab
+# PWr-SSO
+Sieciowe Systemy Operacyjne Lab
